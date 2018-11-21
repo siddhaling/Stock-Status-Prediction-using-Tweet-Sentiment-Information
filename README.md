@@ -26,14 +26,16 @@ This model of stock status prediction using tweet sentiment information has been
 
 [IEEE Link] https://ieeexplore.ieee.org/document/8079788
 
-# Citing this work
+# Cite this work
 
 Please cite as 
 
 Siddhaling Urolagin, "Text Mining of Tweet for Sentiment Classification and Association with Stock Prices", IEEE International Conference on Computer and Applications (ICCA), pp 384-388, Dubai, 2017.
 
-# Further Projects
+# Further Projects and Contact
 
 For further reading and other projects please visit www.researchreader.com
+
+siddesh_u@yahoo.com
 
 
