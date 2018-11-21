@@ -1,6 +1,9 @@
 # Stock-Status-Prediction-using-Tweet-Sentiment-Information
 
 The python code to perform stock status prediction using tweet sentiment information.This python code has six stages of data processing as shown in the figure below. 
+
+![alt text](https://github.com/siddhaling/Stock-Status-Prediction-using-Tweet-Sentiment-Information/blob/master/fig.jpg)
+
 ### Stage 1: twitterDataDownload_1.py. 
 
 This program downloads the tweets for the companies between the specified dates. The list company abbrivetions are given in the file companyAbbvs.txt in the folder companyAbbvs. The tweets downloaded are stored in tweetsForAllCompany.JSON in the folder twitterData
@@ -20,16 +23,17 @@ This program performnce the prediction of stock status. The data set is read fro
 # Research Paper
 
 This model of stock status prediction using tweet sentiment information has been appeared in research paper:
+
 [IEEE Link] https://ieeexplore.ieee.org/document/8079788
 
 # Citing this work
 
-If you are using the above python code to your research please cite as 
+Please cite as 
 
 Siddhaling Urolagin, "Text Mining of Tweet for Sentiment Classification and Association with Stock Prices", IEEE International Conference on Computer and Applications (ICCA), pp 384-388, Dubai, 2017.
 
 # Further Projects
+
 For further reading and other projects please visit www.researchreader.com
 
-![alt text](https://github.com/siddhaling/Stock-Status-Prediction-using-Tweet-Sentiment-Information/blob/master/fig.jpg)
 
