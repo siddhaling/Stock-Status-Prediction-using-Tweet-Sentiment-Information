@@ -26,6 +26,8 @@ This model of stock status prediction using tweet sentiment information has been
 
 https://ieeexplore.ieee.org/document/8079788
 
+https://www.youtube.com/watch?v=9AMdG_bnGFY
+
 # Cite this work
 
 Please cite as 
