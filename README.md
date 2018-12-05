@@ -1,6 +1,6 @@
 # Stock-Status-Prediction-using-Tweet-Sentiment-Information
 
-The python code to perform stock status prediction using tweet sentiment information. This python code has six stages of data processing as shown in the figure below. 
+The python code to perform stock status prediction using twitter data sentiment information. This python code has six stages of data processing as shown in the figure below. 
 
 ![alt text](https://github.com/siddhaling/Stock-Status-Prediction-using-Tweet-Sentiment-Information/blob/master/fig.jpg)
 
